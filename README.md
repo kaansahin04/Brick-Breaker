@@ -9,6 +9,7 @@ Java GUI ile tasarlanmış, skor sistemi bulunan 3x7 Tuğla Kırma oyunu.
 3) Projeyi oluşturduğunuzda otomatik olarak gelen <b>src</b> klasöründe <strong>Sağ Tık>Import>General>File System</strong> şeklinde ilerleyin.
 4) Projeyi <b>clone</b>'ladığınızda bilgisayarınızda oluşan klasörün altındaki <b>src</b> klasörünü seçip import işlemini tamamlayın.
 5) <b>Main.java</b> dosyasını çalıştırın.
+6) Sağ-Sol ok tuşları ile çubuğu hareket ettirirsiniz. Top aşağı düşmeden önce yakalayın ve yukarı sekmesini sağlayın. 21 tuğlanın tamamını kırdığınızda oyunu kazanırsınız.
 <p>Keyifli oyunlar, bol skorlar...</p>
 
 ## Durum
