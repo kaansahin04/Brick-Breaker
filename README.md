@@ -13,5 +13,5 @@ Java GUI ile tasarlanmış, skor sistemi bulunan 3x7 Tuğla Kırma oyunu.
 
 ## Durum
 ![Dosya Boyutu](https://img.shields.io/badge/8%2C40%20KB-gray?style=flat&logo=github&label=file%20size&color=green)
-![GitHub Repo Boyutu](https://img.shields.io/github/repo-size/kaansahin04/Brick-Braker?logo=github&color=green)
+![GitHub Repo Boyutu](https://img.shields.io/github/repo-size/kaansahin04/Brick-Breaker?logo=github&color=green)
 ![Programlama Dili](https://img.shields.io/github/languages/top/kaansahin04/Brick-Breaker?color=%23A49410)
